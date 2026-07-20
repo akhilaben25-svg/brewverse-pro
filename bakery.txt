@@ -35,3 +35,4 @@ Muffins
 Butter Croissant
 Chocolate Croissant
 Apple Danish
+Blueberry Danish
