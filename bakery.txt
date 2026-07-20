@@ -24,3 +24,5 @@ Integration Tests
 Chocolate Cake
 Red Velvet Cake
 Cheesecake
+Buttercream Frosting
+Cream Cheese Frosting
