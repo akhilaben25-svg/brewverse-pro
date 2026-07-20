@@ -3,3 +3,12 @@ Cookies
 Cakes
 Pastries
 Seasonal Bakery
+Chocolate Chip
+Oatmeal Raisin
+Peanut Butter
+Fix Cookie Pricing
+Fix Cookie Display
+Cookie Icons
+Cookie Layout
+Cookie API
+Cookie Search
