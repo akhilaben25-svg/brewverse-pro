@@ -1,1 +1,1 @@
-# brewverse-pro
+# BrewVerse Pro
