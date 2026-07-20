@@ -22,3 +22,4 @@ Leaf Latte Art
 Rosetta Latte Art
 Iced Vanilla Latte
 Iced Caramel Latte
+Iced Mocha
