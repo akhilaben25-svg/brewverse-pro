@@ -10,3 +10,5 @@ Fix Cookie Pricing
 Fix Cookie Display
 Cookie Icons
 Cookie Layout
+Cookie API
+Cookie Search
