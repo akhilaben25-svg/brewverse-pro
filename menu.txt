@@ -5,3 +5,4 @@ Mocha
 Americano
 Cappuccino
 Flat White
+Macchiato
