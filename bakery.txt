@@ -33,3 +33,4 @@ Croissant
 Danish
 Muffins
 Butter Croissant
+Chocolate Croissant
