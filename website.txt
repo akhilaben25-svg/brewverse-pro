@@ -9,3 +9,4 @@ Store Location
 Business Hours
 Coffee Gallery
 Bakery Gallery
+Customer Gallery
