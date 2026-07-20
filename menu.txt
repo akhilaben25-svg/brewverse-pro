@@ -9,3 +9,4 @@ Macchiato
 Espresso Shot
 Espresso UI redesign
 Improve espresso icons
+Dark theme espresso menu
