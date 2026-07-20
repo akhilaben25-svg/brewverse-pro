@@ -6,3 +6,5 @@ Seasonal Bakery
 Chocolate Chip
 Oatmeal Raisin
 Peanut Butter
+Fix Cookie Pricing
+Fix Cookie Display
