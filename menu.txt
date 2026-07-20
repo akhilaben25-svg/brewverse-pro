@@ -3,3 +3,4 @@ Espresso
 Latte
 Mocha
 Americano
+Cappuccino
