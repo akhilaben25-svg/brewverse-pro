@@ -2,3 +2,8 @@
 Espresso
 Latte
 Mocha
+Americano
+Cappuccino
+Flat White
+Macchiato
+Espresso Shot
