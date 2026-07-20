@@ -1,0 +1,12 @@
+# Menu
+Espresso
+Latte
+Mocha
+Americano
+Cappuccino
+Flat White
+Macchiato
+Espresso Shot
+Espresso UI redesign
+Improve espresso icons
+Dark theme espresso menu
