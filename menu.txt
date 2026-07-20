@@ -6,3 +6,4 @@ Americano
 Cappuccino
 Flat White
 Macchiato
+Espresso Shot
