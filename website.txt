@@ -2,3 +2,4 @@
 Homepage
 Navigation Bar
 Hero Banner
+Featured Products
