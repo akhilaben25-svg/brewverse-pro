@@ -4,3 +4,4 @@ Navigation Bar
 Hero Banner
 Featured Products
 Customer Reviews
+Contact Form
