@@ -9,3 +9,5 @@ Macchiato
 Espresso Shot
 Vanilla Latte
 Caramel Latte
+Mocha Latte
+Hazelnut Syrup
