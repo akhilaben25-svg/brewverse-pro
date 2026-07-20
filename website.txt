@@ -1,0 +1,12 @@
+# Website
+Homepage
+Navigation Bar
+Hero Banner
+Featured Products
+Customer Reviews
+Contact Form
+Store Location
+Business Hours
+Coffee Gallery
+Bakery Gallery
+Customer Gallery
